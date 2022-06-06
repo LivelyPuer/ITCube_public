@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="url">http://LivelyDog10.pythonanywhere.com</string>
+    <string name="last_events">/api/last/</string>
+    <string name="events_url">/api/events/</string>
+    <string name="check_password_url">/api/check-password/</string>
+    <string name="update_user">/api/users/</string>
+    <string name="courses_url">/api/courses/</string>
+    <string name="format">"?format=json"</string>
+</resources>

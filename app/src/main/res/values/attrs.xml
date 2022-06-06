@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EventsCard">
+        <attr name="categoryText" format="string"/>
+        <attr name="dayText" format="string"/>
+        <attr name="monthText" format="string"/>
+        <attr name="titleText" format="string"/>
+        <attr name="descriptionText" format="string"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,57 @@
+<resources>
+    <style name="circle_button" parent="@android:style/Widget.Button">
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:shadowColor">#FF000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">-1</item>
+        <item name="android:shadowRadius">0.2</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/circle_button</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="fontFamily">@font/circe_bold</item>
+    </style>
+    <style name="simple_button" parent="@android:style/Widget.Button">
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:shadowColor">#FF000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">-1</item>
+        <item name="android:shadowRadius">0.2</item>
+        <item name="android:textSize">18sp</item>
+<!--        <item name="android:textStyle">bold</item>-->
+        <item name="android:background">@drawable/simple_button</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="fontFamily">@font/circe_bold</item>
+    </style>
+    <style name="navigation_text" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textSize">20sp</item>
+        <item name="android:color">@color/nav_color</item>
+        <item name="android:textStyle">bold</item>
+        <item name="fontFamily">@font/circe_bold</item>
+    </style>
+    <style name="news_card" parent="Widget.Material3.CardView.Elevated">
+        <item name="android:layout_width">130dp</item>
+        <item name="android:layout_height">170dp</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="cardCornerRadius">28dp</item>
+        <item name="cardElevation">10dp</item>
+    </style>
+    <style name="title_text" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textSize">34sp</item>
+        <item name="android:lineSpacingExtra">0dp</item>
+<!--        <item name="android:textStyle">bold</item>-->
+        <item name="fontFamily">@font/rubikbold</item>
+    </style>
+    <style name="event_card" parent="Widget.Material3.CardView.Outlined">
+        <item name="cardBackgroundColor">@android:color/transparent</item>
+        <item name="cardCornerRadius">28dp</item>
+        <item name="cardElevation">0dp</item>
+        <item name="strokeColor">@color/hint_color</item>
+        <item name="strokeWidth">2dp</item>
+    </style>
+</resources>

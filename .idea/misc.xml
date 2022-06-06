@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/drawable/add_button.xml" value="0.3135" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/drawable/akar_icons_home.xml" value="0.356" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/drawable/bx_message_square_dots.xml" value="0.356" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/drawable/downPanel.xml" value="0.2535" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/drawable/down_panel.xml" value="0.2535" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/drawable/events_frame.xml" value="0.362" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/drawable/frame.xml" value="0.3575" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/drawable/frame_19.xml" value="0.3575" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/drawable/frame_5.xml" value="0.356" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/drawable/frame_6.xml" value="0.356" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/drawable/frame_event.xml" value="0.322" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2535" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/drawable/indicator.xml" value="0.3135" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/drawable/it_cube_logo.xml" value="0.3115" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/layout/activity_enter.xml" value="0.2875905797101449" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/layout/activity_home.xml" value="0.2708333333333333" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/layout/activity_main2.xml" value="0.2726449275362319" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/layout/elem_events_card.xml" value="0.26403985507246375" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/layout/fragment_contact.xml" value="0.1" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/layout/fragment_events.xml" value="0.5885078776645042" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/layout/fragment_gallery.xml" value="0.20208333333333334" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/layout/fragment_info.xml" value="0.2726449275362319" />
+        <entry key="..\:/Downloads/app/Popava/app/src/main/res/layout/fragment_search_main.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Dmitriy/Documents/GitHub/ITCube_Popova/app/src/main/res/layout/fragment_contact.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Dmitriy/Documents/GitHub/ITCube_Popova/app/src/main/res/layout/fragment_gallery.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Dmitriy/Documents/GitHub/ITCube_Popova/app/src/main/res/layout/fragment_home.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Dmitriy/Documents/GitHub/ITCube_Popova/app/src/main/res/layout/fragment_info.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Dmitriy/Documents/GitHub/ITCube_Popova/app/src/main/res/layout/fragment_search_main.xml" value="0.33" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/add_button.xml" value="0.189" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/akar_icons_search.xml" value="0.189" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/background.xml" value="0.327" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/background_grid.xml" value="0.296" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/bookmark_icon.xml" value="0.1" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/bx_filter_alt.xml" value="0.189" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/circle_button.xml" value="0.3385" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/circle_button_disabled.xml" value="0.3385" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/circle_button_enabled.xml" value="0.3385" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/circle_button_focused.xml" value="0.3385" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/circle_button_pressed.xml" value="0.3385" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/down_panel.xml" value="0.189" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/events_frame.xml" value="0.189" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/frame.xml" value="0.189" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/frame_event.xml" value="0.189" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/home_button.xml" value="0.189" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/indicator.xml" value="0.1935" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/indicator_frame.xml" value="0.1935" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/it_cube_logo.xml" value="0.1935" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/it_cube_logo_white.xml" value="0.1935" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/no_select_frame.xml" value="0.189" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/person_icon.xml" value="0.1515" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/register_edittext_enable.xml" value="0.3515" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/search_icon.xml" value="0.3635" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/tile.xml" value="0.3635" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/tile_png.xml" value="0.3635" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/drawable/underline.xml" value="0.1935" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/layout/activity_enter.xml" value="0.33" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/layout/activity_register.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/layout/activity_side_navigation.xml" value="0.29981884057971014" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/layout/activity_start.xml" value="0.25" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/layout/app_bar_side_navigation.xml" value="0.29981884057971014" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/layout/content_side_navigation.xml" value="0.29981884057971014" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/layout/fragment_contact.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/layout/fragment_events.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/layout/fragment_events_start.xml" value="0.31929347826086957" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/layout/fragment_home.xml" value="0.31929347826086957" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/layout/fragment_info.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/layout/fragment_info_start.xml" value="0.31929347826086957" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/layout/fragment_movies_start.xml" value="0.31929347826086957" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/layout/fragment_slideshow.xml" value="0.29981884057971014" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/layout/nav_header_side_navigation.xml" value="0.29981884057971014" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/layout/nav_header_side_navigation2.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/menu/activity_main_drawer.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/menu/activity_side_navigation_drawer.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Dmitriy/Documents/ITCube_Popova/app/src/main/res/menu/side_navigation.xml" value="0.18541666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

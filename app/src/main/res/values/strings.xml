@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Popava</string>
+    <string name="news">Новости</string>
+    <string name="now_course">Ближайший курс</string>
+    <string name="welcome_main_text">Добро\nпожаловать!</string>
+    <string name="all_news"><u>все новости</u></string>
+    <string name="events_title">Мероприятия</string>
+    <string name="nearest_events_title">Ближайшие\nмероприятия</string>
+    <string name="all_events"><u>все мероприятия</u></string>
+    <string name="more">узнать больше</string>
+    <string name="my_courses">Мои мероприятия и курсы</string>
+    <string name="access_courses">Доступные направления</string>
+    <string name="event1">При посещении данного мероприятия вы познакомитесь поближе со всеми направлениями нашего образовател…</string>
+    <string name="start_check_news">Следите за новостями</string>
+    <string name="start_get_courses">Записывайтесь к нам</string>
+    <string name="start_check_tasks">Отслеживайте задания</string>
+    <string name="next">Дальше</string>
+    <string name="skip">пропустить</string>
+    <string name="enter_your_profile">Войдите в свой\nпрофиль</string>
+    <string name="enter_your_email">Введите Email или телефон</string>
+    <string name="enter_your_password">Пароль</string>
+    <string name="forgot_your_password">Забыли пароль?</string>
+    <string name="registration">Регистрация</string>
+    <string name="no_accaunt">Нет аккаунта?</string>
+    <string name="enter">Войти</string>
+    <string name="create_you_profile">Создайте свой\nпрофиль</string>
+    <string name="fieldName">Имя</string>
+    <string name="SecondName">Фамилия</string>
+    <string name="email_field">Email</string>
+    <string name="phone_field">Телефон</string>
+    <string name="create">Создать</string>
+    <string name="have_profile">У вас уже есть профиль?</string>
+    <string name="you_enter">Войдите</string>
+    <string name="title_activity_side_navigation">SideNavigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_profile">Мой профиль</string>
+    <string name="bookmarks">Закладки</string>
+    <string name="search">Поиск</string>
+    <string name="timetable">Расписание</string>
+    <string name="teachers">Преподаватели</string>
+    <string name="events">События</string>
+    <string name="contacts">Контакты</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="test_name">Ярослав</string>
+
+    <string name="default_event_day">17</string>
+    <string name="default_event_month">МАРТА</string>
+    <string name="default_event_title">SimbirSoft интенсив</string>
+    <string name="default_event_description">Проробуй себя в роли разработчика в крупной IT компании</string>
+    <string name="sign_up">Записаться</string>
+    <string name="about_course">О курсе</string>
+
+
+</resources>
